@@ -15,12 +15,12 @@ const cardData = [
     {
         image: '/grow3.jpg',
         title: 'A chance to work with a diverse, international team',
-        description: `Experience the power of global collaboration. Working with a team of professionals from different backgrounds, cultures, and perspectives not only broadens how we view problems but also enhances creativity, problem-solving, and innovation. At VENOVOX, you're not just part of a team — you're part of a community united by shared goals and diverse strengths.`,
+        description: `Experience the power of global collaboration. Working with a team of professionals from different backgrounds, cultures, and perspectives not only broadens how we view problems but also enhances creativity, problem-solving, and innovation. At VENOVOX, you're not just part of a team  you're part of a community united by shared goals and diverse strengths.`,
     },
     {
         image: '/grow4.jpg',
         title: 'On-the-job expert training',
-        description: `Gain practical knowledge where it matters most — on the job. With hands-on experience from seasoned professionals and real-world problem solving, our approach prioritizes growth and development. The real-world experience provided by VENOVOX helps bridge the gap between training and performance, resulting not just in learning, but in mastering real-world application.`,
+        description: `Gain practical knowledge where it matters most  on the job. With hands-on experience from seasoned professionals and real-world problem solving, our approach prioritizes growth and development. The real-world experience provided by VENOVOX helps bridge the gap between training and performance, resulting not just in learning, but in mastering real-world application.`,
     },
 ];
 
