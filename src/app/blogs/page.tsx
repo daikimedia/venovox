@@ -139,7 +139,7 @@ export default function BlogsPage() {
                                             <img
                                                 src="/venovox-author1.png"
                                                 alt="Author"
-                                                className="w-9 h-9 rounded-full object-cover "
+                                                className="w-12 h-12 rounded-full object-cover "
                                             />
                                             <div className="hidden sm:block">
                                                 <h4 className="text-sm font-semibold">Dato' Venodevan</h4>
