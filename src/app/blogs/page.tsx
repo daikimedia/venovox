@@ -132,11 +132,14 @@ export default function BlogsPage() {
                                             </svg>
                                         </Link>
 
-                                        <Link href="/author" className="flex items-center gap-2 text-right cursor-pointer">
+                                        <Link
+                                            href="/author"
+                                            className="flex items-center gap-2 text-right cursor-pointer"
+                                        >
                                             <img
-                                                src="/venovox-author.webp"
+                                                src="/venovox-author1.png"
                                                 alt="Author"
-                                                className="w-10 h-10 rounded-full object-cover border"
+                                                className="w-9 h-9 rounded-full object-cover "
                                             />
                                             <div className="hidden sm:block">
                                                 <h4 className="text-sm font-semibold">Dato' Venodevan</h4>
